@@ -9,12 +9,12 @@
 
 ## Instruções do Desafio
 
-1) Criar um formulário com pelo menos um campo de cada tipo: texto, senha, área de texto, select, checkbox, radio, botões (submit e reset).
-a) Mostrar mensagem de erro até que todos os campos sejam preenchidos, com validação em JavaScript;
-b) Mostrar mensagem de confirmação com as informações digitadas/escolhidas pelo usuário.
-c) Validar usuario e senha com as informações de um arquivo 'autenticacao.json.
-d) Pesquise e teste uma forma de armazenar e validar uma senha cifrada.
-e) Demonstre conhecimento em CSS estilizando o formulário.
+<p> 1) Criar um formulário com pelo menos um campo de cada tipo: texto, senha, área de texto, select, checkbox, radio, botões (submit e reset).</p>
+<p> a) Mostrar mensagem de erro até que todos os campos sejam preenchidos, com validação em JavaScript. </p>
+<p> b) Mostrar mensagem de confirmação com as informações digitadas/escolhidas pelo usuário. </p>
+<p> c) Validar usuario e senha com as informações de um arquivo 'autenticacao.json. </p>
+<p> d) Pesquise e teste uma forma de armazenar e validar uma senha cifrada. </p>
+<p> e) Demonstre conhecimento em CSS estilizando o formulário. </p>
 
 ## Instruções de Inicialização de Projeto
 
